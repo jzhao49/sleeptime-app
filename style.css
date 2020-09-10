@@ -12,6 +12,13 @@ body {
     display: none;
 }
 
+button {
+    padding: 20px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    color: #001f3f;
+  }
+
 #cycle-1 {
     color: rgb(168, 39, 254);
   }
